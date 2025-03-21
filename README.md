@@ -1,6 +1,6 @@
-# RDP-CampusConnect  
+# CampusUnify 
 
-**RDP-CampusConnect** is a campus-centric social media platform designed exclusively for students of Red Deer Polytechnic. It fosters community engagement through seamless sharing of updates, ideas, and events in a secure, intuitive environment. Built with modern technologies, it prioritizes user experience, safety, and real-time interaction.
+**CampusUnify** is a campus-centric social media platform designed exclusively for students of Red Deer Polytechnic. It fosters community engagement through seamless sharing of updates, ideas, and events in a secure, intuitive environment. Built with modern technologies, it prioritizes user experience, safety, and real-time interaction.
 
 ---
 
